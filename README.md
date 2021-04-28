@@ -8,3 +8,4 @@
 - 📫 How to reach me: email: nishith@home.hpu.edu.cn
 - ⚡ Fun fact: I want to do everything I see 
 
+<img src="https://github-readme-stats.vercel.app/api?username=nishith170217&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
