@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **undergraduate thesis**
+- 👯 I’m looking to collaborate on **Master's thesis**
 
-- 🤝 I’m looking for help with **Hyperspectral Image analysis using deep learning algorithm**
+- 🤝 I’m looking for help with **Real-time Vehicle detection Project using Deep Learning**
 
 - 💬 Ask me about **Technology**
 
-- 📫 How to reach me **nishith@home.hpu.edu.cn**
+- 📫 How to reach me **nishith.r.biswas@fau.de**
 
 - ⚡ Fun fact **I want to do everything what I see**
 
